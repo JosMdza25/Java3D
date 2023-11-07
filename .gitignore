@@ -1,0 +1,4 @@
+# Ignorar todos los archivos y carpetas en el directorio raíz, excepto src
+/*
+# Permitir la carpeta src y su contenido
+!/src/
